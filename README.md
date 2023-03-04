@@ -53,3 +53,5 @@ kubectl delete namespace <namespace_name>
 ## Conclusion
 That's it! You should now have a Golang HTTP server running on your local machine and deployed on your Kubernetes cluster. 
 Feel free to modify the code and experiment with different configurations.
+
+Everything in this repository is written in ChatGPT.
